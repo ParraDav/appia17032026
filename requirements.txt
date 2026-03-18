@@ -1,4 +1,4 @@
-﻿annotated-types==0.7.0
+annotated-types==0.7.0
 anyio==4.12.1
 asttokens==3.0.1
 blinker==1.9.0
@@ -67,4 +67,4 @@ urllib3==2.6.3
 wcwidth==0.2.13
 websockets==15.0.1
 Werkzeug==3.1.6
-gunicorn
+gunicorn==20.1.0
